@@ -1,0 +1,42 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/TOSApi/bin
+/TOSApi/obj/Debug
+/TOSApi/Properties/PublishProfiles/
+/TOSCore/bin/Debug
+/TOSCore/obj/Debug
+/TOSService/bin/Debug
+/TOSService/obj/Debug
+/TOSServiceTest/bin/Debug
+/TOSServiceTest/obj/Debug
+/TOSServiceTest.console
+/.vs/TOSApi
+/packages
+
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+*.user
+
+bin
+obj
+
+# Visual Studio 2015 cache/options directory
+.vs/
+/Publish/Queries/EventData/EventData.SaveEventData.sql
+/Publish/Reports/Deposit/BL4_Deposite.rdl
+/TOSService/fn_Logic72_Variable_Result.cs
+/TOSApi/Content/DownloadVoucher
+/Logstar.AccrualContractService
