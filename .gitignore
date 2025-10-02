@@ -29,6 +29,12 @@ bld/
 [Ll]og/
 
 *.user
+/bin/
+/obj/
+*.zip
+*.dll
+*.exe
+*.log
 
 bin
 obj
@@ -40,3 +46,4 @@ obj
 /TOSService/fn_Logic72_Variable_Result.cs
 /TOSApi/Content/DownloadVoucher
 /Logstar.AccrualContractService
+
